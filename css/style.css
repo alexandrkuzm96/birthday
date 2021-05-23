@@ -1,0 +1,19 @@
+body{
+	background-image: url(../img/sky.jpg);
+
+}
+img{
+	width: 10%;
+	float: left;
+}
+.with{
+	margin-right: 10%;
+}
+.m{
+	float: none;
+
+}
+.day{
+	margin-top: 5%;
+		margin-left: 20%;
+}
